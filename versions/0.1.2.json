@@ -1,0 +1,1125 @@
+{
+  "format": 1,
+  "version": "0.1.2",
+  "published": "2026-09-26",
+  "save_format": 18,
+  "notes": "- Actualizaciones mucho más ligeras: la música y los sonidos van aparte y solo se bajan cuando cambian (esta vez se bajan una última vez).\n",
+  "platforms": {
+    "linux-x86_64": {
+      "exe": "forja.x86_64",
+      "files": [
+        {
+          "path": "audio/ambient/birds.ogg",
+          "sha256": "76714d0225ea9904ccca9a83f046ca73e335d98788bd6ae9d93486f1f7aef235",
+          "size": 315037,
+          "zsize": 305257,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/cave.ogg",
+          "sha256": "7c914d1fada40ede2e23429dc50750c0d6a15947fb838109983ec71cee50a29f",
+          "size": 238393,
+          "zsize": 224053,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/crickets.ogg",
+          "sha256": "9bbf202c4179f3b1fda76e5213a28f031549e6e789a98d34b7be4c52d87962fc",
+          "size": 296525,
+          "zsize": 286206,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/fire.ogg",
+          "sha256": "0de62ff8f51816505a2a1683034272cbbd2186dacc71ec0b3eb73a0b5dba4aa9",
+          "size": 211326,
+          "zsize": 199864,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/rain.ogg",
+          "sha256": "bbac08472bfd1632493fd01fe5369b1a1e1384cb5cf4ac483da27c8f21e2c92a",
+          "size": 354104,
+          "zsize": 349808,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/river.ogg",
+          "sha256": "c45f44381686467d4ca93a6307071a04ab10f8b7588f416c6806c785fb7336bb",
+          "size": 323413,
+          "zsize": 318282,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/wind.ogg",
+          "sha256": "9a3c61f0e17179dd16b48b1d03a2339a6a74ca9ff69e35ea7dc792e2d5dc4ef1",
+          "size": 300287,
+          "zsize": 296854,
+          "exec": false
+        },
+        {
+          "path": "audio/music/fortaleza_1.ogg",
+          "sha256": "300c60b300c66fd6f3c61d1de0b3e88adda2042c94956fe33d1bb03f66f16120",
+          "size": 1841805,
+          "zsize": 1781826,
+          "exec": false
+        },
+        {
+          "path": "audio/music/fortaleza_2.ogg",
+          "sha256": "516ae338a2ab909137fdb3199a21942f6d982e963f788fafe2f4adb1b1bf2c19",
+          "size": 2217518,
+          "zsize": 2164783,
+          "exec": false
+        },
+        {
+          "path": "audio/music/fortaleza_3.ogg",
+          "sha256": "245f199dc2bd1280b7c7feffbc8637adfb19bc88522b5c97bc6b47e1b0ffe141",
+          "size": 2491277,
+          "zsize": 2430654,
+          "exec": false
+        },
+        {
+          "path": "audio/music/genesis.ogg",
+          "sha256": "9bceda6fd57f608cefa740091ceeb1d782eb26a2f5c090f67051fde9e8534d5b",
+          "size": 2776533,
+          "zsize": 2751724,
+          "exec": false
+        },
+        {
+          "path": "audio/music/invierno.ogg",
+          "sha256": "f8b53dd02e40e08e8b07fb26291a679e415dce8b5e67821585c428834792d602",
+          "size": 3044719,
+          "zsize": 3004134,
+          "exec": false
+        },
+        {
+          "path": "audio/music/noche.ogg",
+          "sha256": "d608aa5acc164743a1c6854ff06e4f98af8901f93e4f9a799f614aa497120c46",
+          "size": 3176202,
+          "zsize": 3129820,
+          "exec": false
+        },
+        {
+          "path": "audio/music/peligro.ogg",
+          "sha256": "8118292adfece796bff413c4121fe5a1d8582dc3cba6358b411bfb11a34ee2e3",
+          "size": 1174927,
+          "zsize": 1150559,
+          "exec": false
+        },
+        {
+          "path": "audio/music/titulo.ogg",
+          "sha256": "b534fbec87c2a325024db936db18d21ace07cedaa55d6b11b6869a54bd56c654",
+          "size": 2441445,
+          "zsize": 2375104,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/alert.ogg",
+          "sha256": "c562608d93307e78cc75c0ca905123c99a8e70765a67c3caf28ff88e0ae1a379",
+          "size": 56448,
+          "zsize": 53345,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/anvil.ogg",
+          "sha256": "b569a5104a449e10bacd331b062093b20bcc86191d6099d26d72ef5dd7751151",
+          "size": 8564,
+          "zsize": 6689,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/axe_0.ogg",
+          "sha256": "f8d1e9c06b49520f2d56d81dabb9a060ad91507c26b0b93e7a2546e9091d1c56",
+          "size": 6821,
+          "zsize": 5991,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/axe_1.ogg",
+          "sha256": "f64867e7521b431556e6ede484b3b386727135f1344ff6dedbfa33a07fe4da7e",
+          "size": 6780,
+          "zsize": 5946,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/axe_2.ogg",
+          "sha256": "b17e6bfb5b81c425eccc462920e25a811e0c971134ad050e066c2d793986b8eb",
+          "size": 6834,
+          "zsize": 6006,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/body_fall.ogg",
+          "sha256": "1dedcd94b1e24771e71e3985ad331411649942c7255d053d5a45a7ee138d2153",
+          "size": 10654,
+          "zsize": 9827,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/done.ogg",
+          "sha256": "4e63c4448532549636f96cf66a575f9b4f5bb8041b433e83d87d34289660ae22",
+          "size": 49185,
+          "zsize": 45835,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/growl_0.ogg",
+          "sha256": "8f37b42d6dbd89e0eab0842d6aaa5287930129cd69e9c77bb416524820007e4b",
+          "size": 14544,
+          "zsize": 13645,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/growl_1.ogg",
+          "sha256": "08381bc602e27949856a8e16caa3fb6a5da2ad530c393ab8e19196d9cde28be2",
+          "size": 15178,
+          "zsize": 14234,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/grunt_0.ogg",
+          "sha256": "bd54fb804fdff3fdc0b4cd5cd3774b4bca0d9b590bb8a7adb86fb5a8d30d1a15",
+          "size": 7042,
+          "zsize": 5999,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/grunt_1.ogg",
+          "sha256": "4d5abe38b84859972c74f22551fd7146179dd9d4ee46bcad7648903d46346e00",
+          "size": 6065,
+          "zsize": 5190,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/grunt_2.ogg",
+          "sha256": "cb3b9f0c526367ef859b6d6391590ccad609cebb49d8e6a5b17cf16a5963dbe2",
+          "size": 6260,
+          "zsize": 5376,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hammer_0.ogg",
+          "sha256": "c12f960e46b50a5597870b12fc4537c6a9f7cb439ae928ae91fcc2d4ad76133d",
+          "size": 6317,
+          "zsize": 5468,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hammer_1.ogg",
+          "sha256": "f47ab331bcaeac466808bf5e2f7307daf59ba6336f95cccc9912a2c623cd967f",
+          "size": 6275,
+          "zsize": 5450,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hammer_2.ogg",
+          "sha256": "5be90bcd14b457625d202f17067b607f460aabea09fa0d7db02ee8c77469c88f",
+          "size": 6377,
+          "zsize": 5539,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_cut_0.ogg",
+          "sha256": "790f4b0b974123059b09126cecb10b6945bfbbd68c490e0c3ac251cd076982f9",
+          "size": 6925,
+          "zsize": 6098,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_cut_1.ogg",
+          "sha256": "fefec8f81be7430a59526b71fd34c298f1e4e0a3fd185feebf2de06cd0af5f04",
+          "size": 6930,
+          "zsize": 6108,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_cut_2.ogg",
+          "sha256": "1445f931c2b18cb8e1b1c1c276ec814924ba747d180e193a45074fe15871b71e",
+          "size": 6917,
+          "zsize": 6092,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_flesh_0.ogg",
+          "sha256": "40559105b9715c466a69dfa9514b70a90f08aa09b99fe54bf2bd6b7e102cbbb8",
+          "size": 5717,
+          "zsize": 4888,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_flesh_1.ogg",
+          "sha256": "201ef17b158c0b0accb266c9ae91e5b308a1bc6bf5de89a1724d032d51016423",
+          "size": 5697,
+          "zsize": 4865,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_flesh_2.ogg",
+          "sha256": "607f63812f82e0451590d4a60b142f65d19e11aef4cd544730e1dc1350d2698d",
+          "size": 5699,
+          "zsize": 4870,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/horn.ogg",
+          "sha256": "d7846eefa46f6fe8ffdc87233888b2b73ba0c603a9d3bdf91d86007450102190",
+          "size": 50857,
+          "zsize": 46344,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/notify.ogg",
+          "sha256": "f48ae8ec1695f6fa11685b5f5c57bc5b7b1d42f622890ef7ded9d71f24b356f8",
+          "size": 26378,
+          "zsize": 23418,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/pick_0.ogg",
+          "sha256": "1f60f5044860257092f579afc3a9178c741b630400596f1d38388b3887ad497b",
+          "size": 7668,
+          "zsize": 6844,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/pick_1.ogg",
+          "sha256": "29e0f5a63d97617d73fd398b1fc017da94a9d64be78bee19f4830a744499e866",
+          "size": 7666,
+          "zsize": 6844,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/pick_2.ogg",
+          "sha256": "6f11601fb56e151bd93e6fa194affa21ba89fb5cc3cae0a3862a8cbe4415d5de",
+          "size": 7654,
+          "zsize": 6833,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/pick_3.ogg",
+          "sha256": "cefae6c3b4d6703c97ef594d4b7eae52cce1625c667c0f5a1edd91bd4ba94856",
+          "size": 7662,
+          "zsize": 6835,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/ping.ogg",
+          "sha256": "92763fe5b2adbf45493af66c6e63f96280d37e6d4f4aeb9831cf017c23686645",
+          "size": 24979,
+          "zsize": 23119,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/roar.ogg",
+          "sha256": "1f29020496ed29fa96149423ddd3e612c67ce168274cd5c79c5ab345ce3751bd",
+          "size": 15356,
+          "zsize": 14518,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/rock_break.ogg",
+          "sha256": "0feffea9c57c8e955aaa98ae663bd89774de5ee64691b173d50701c7de59b07a",
+          "size": 13646,
+          "zsize": 12813,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/splash.ogg",
+          "sha256": "636d679c588265a9fe1aee5612acb0e8d768f48d33ba8d23e8ad2231c8d544ba",
+          "size": 11268,
+          "zsize": 10442,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/stage.ogg",
+          "sha256": "d594077daecedda4012e50ad3aef5b1dc7e456cf715e094fc72a04804604ce13",
+          "size": 34595,
+          "zsize": 32146,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_grass_0.ogg",
+          "sha256": "3e128482eebbe1ea372d5dfe6ad36797dca3ece2e7e728475dccbb7fc5b602a1",
+          "size": 5352,
+          "zsize": 4523,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_grass_1.ogg",
+          "sha256": "fe7adc302efa81ba617aa75c86cdd113ad078def9c470a8305c86e5287181640",
+          "size": 5336,
+          "zsize": 4509,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_grass_2.ogg",
+          "sha256": "4a576e78e20d5bc497e156c5404023d22707360833f2638dc770a97900d95a98",
+          "size": 5355,
+          "zsize": 4526,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_grass_3.ogg",
+          "sha256": "580a2cc24d8a8b68e8f020017a82999b9b92fbbc85290ce7c0b626ad3f4e8366",
+          "size": 5368,
+          "zsize": 4539,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_stone_0.ogg",
+          "sha256": "15d5dad132940655790b1abac1d281d7878d6138a8090a8ea7733b184e9c5af9",
+          "size": 4915,
+          "zsize": 4085,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_stone_1.ogg",
+          "sha256": "b611a7d8362cda5b03a1ea4a127001a3cd66d0770e10f75acb6c46ebba2f18eb",
+          "size": 4913,
+          "zsize": 4086,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_stone_2.ogg",
+          "sha256": "6b4e4d28d1ad89f1be447b331e957c664057966d4b047e8f3be8b8becf52c0ca",
+          "size": 4919,
+          "zsize": 4090,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_stone_3.ogg",
+          "sha256": "24e004c71f8ec05e19a067ad833fbd6da4d2cf4b2d6cdb4484bc9f0fa2379690",
+          "size": 4928,
+          "zsize": 4085,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/tree_fall.ogg",
+          "sha256": "8c46dab65df7a462c2c8684c52ac3f466b1cf60fb7bdb02b42d45f771ef3efb4",
+          "size": 21695,
+          "zsize": 20777,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/ui_click.ogg",
+          "sha256": "9ccacd79c0791f5cb75ee1be15a38815f0469c69817cefd6cd8cd237b7534281",
+          "size": 4372,
+          "zsize": 3506,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/ui_close.ogg",
+          "sha256": "32118882000754b2e0212d04d7546fe7cdb45fe3ba60684f9c62e993c8befb68",
+          "size": 4872,
+          "zsize": 3974,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/ui_hover.ogg",
+          "sha256": "87b599d563939825adbe633e910addb9790cf572908ad9547a12ced9a46e0871",
+          "size": 3969,
+          "zsize": 3106,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/ui_open.ogg",
+          "sha256": "8c70b38ed02bf12779ebc36747767321ac5395902417eca6f654e50448e3c71b",
+          "size": 4856,
+          "zsize": 3941,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/yelp_0.ogg",
+          "sha256": "a9caddffac3628c39c6ed5d3f6e1cacf5157d4778eb50033f01f974e211d6e57",
+          "size": 4684,
+          "zsize": 3765,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/yelp_1.ogg",
+          "sha256": "6f9cb520746a18d60b72fafd8b7bb1bfdaf473c970a730d7b18ec50ea0dfe668",
+          "size": 4893,
+          "zsize": 3943,
+          "exec": false
+        },
+        {
+          "path": "data/biomes.ron",
+          "sha256": "3e1e62a63476271ff483d0b44b17357f4a44cb4d86dea2ddde879312b0ddaf53",
+          "size": 3793,
+          "zsize": 1036,
+          "exec": false
+        },
+        {
+          "path": "data/bodies.ron",
+          "sha256": "6d971fed7433d5e626b9d098c7762e2784b7aef8f1f9d6be00ae251eaaa2d727",
+          "size": 8962,
+          "zsize": 2045,
+          "exec": false
+        },
+        {
+          "path": "data/creatures.ron",
+          "sha256": "d3d25367b192a80404e9c1639f567915912a78d52109e109aac029af5ec5c77a",
+          "size": 6552,
+          "zsize": 1765,
+          "exec": false
+        },
+        {
+          "path": "data/crops.ron",
+          "sha256": "5e53dcc0b440105517158c50b8de11b7fbd91683e63f10c890bca49fc29ad1c6",
+          "size": 931,
+          "zsize": 454,
+          "exec": false
+        },
+        {
+          "path": "data/geology.ron",
+          "sha256": "1523c9d88a62bd088a59195fcdac132ba06452e4f86e3fbc116afcb5343bb531",
+          "size": 3929,
+          "zsize": 1372,
+          "exec": false
+        },
+        {
+          "path": "data/items.ron",
+          "sha256": "8e7a1404f545c972043b7eab17f4a36634b87c8dc171105bae1d8bbde5231a05",
+          "size": 1106,
+          "zsize": 532,
+          "exec": false
+        },
+        {
+          "path": "data/materials.ron",
+          "sha256": "703f6d41a3e686760324275f94dc3d4a1393f85e8e4e2746728ca9d29c69d412",
+          "size": 6528,
+          "zsize": 1618,
+          "exec": false
+        },
+        {
+          "path": "data/needs.ron",
+          "sha256": "1408c22ec61203b9d617916b87818a3c519f24bfc6ff7032c5f7b03f2f53db7f",
+          "size": 861,
+          "zsize": 484,
+          "exec": false
+        },
+        {
+          "path": "data/peoples.ron",
+          "sha256": "7240d76902d81bf8e29c4cb74a61b058a832a071e65935762ddafae8d0fa0891",
+          "size": 2336,
+          "zsize": 951,
+          "exec": false
+        },
+        {
+          "path": "data/plants.ron",
+          "sha256": "9e124d0b5e21bd64be738b4c47646bfcf903587f9f7a6e70140183f1895170b7",
+          "size": 2430,
+          "zsize": 740,
+          "exec": false
+        },
+        {
+          "path": "data/recipes.ron",
+          "sha256": "de29d9441bd584ebf3476e92e8ea91f7ca7ed0fe729a2b4906a5fe1578f4e553",
+          "size": 2538,
+          "zsize": 845,
+          "exec": false
+        },
+        {
+          "path": "data/rules.ron",
+          "sha256": "2fd02ff736b4e378a03dd536f79d7d6683c4ed906054ad90d60c8f811b969bdf",
+          "size": 1478,
+          "zsize": 733,
+          "exec": false
+        },
+        {
+          "path": "data/soils.ron",
+          "sha256": "e963ca0e897d27daa271bf78d875d345ad550e66338cb16b1179f77ab0a9cd9a",
+          "size": 3282,
+          "zsize": 1179,
+          "exec": false
+        },
+        {
+          "path": "data/workshops.ron",
+          "sha256": "073c3e88981dbf7789f678d78bbfce8fdb69847ed33cf2653cd3ceaf749e9eca",
+          "size": 824,
+          "zsize": 395,
+          "exec": false
+        },
+        {
+          "path": "forja.pck",
+          "sha256": "3b30214ff88136cc9a721c660efc6fd081e17f82cd869749f1abd9deffaa8c86",
+          "size": 605452,
+          "zsize": 560869,
+          "exec": false
+        },
+        {
+          "path": "forja.x86_64",
+          "sha256": "d9f79ab89b5ae369aeed11c6052d402e8218cd503bf85b4a235f9c30c46a7c63",
+          "size": 73519416,
+          "zsize": 21663722,
+          "exec": true
+        },
+        {
+          "path": "libforja_bridge.so",
+          "sha256": "ee507d2a3b8f8afacfb7ffdb8e9642cc3afb7e1b03a8ac256f88c1c3b0d3cf5c",
+          "size": 12643048,
+          "zsize": 3626052,
+          "exec": false
+        }
+      ]
+    },
+    "windows-x86_64": {
+      "exe": "forja.exe",
+      "files": [
+        {
+          "path": "audio/ambient/birds.ogg",
+          "sha256": "76714d0225ea9904ccca9a83f046ca73e335d98788bd6ae9d93486f1f7aef235",
+          "size": 315037,
+          "zsize": 305257,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/cave.ogg",
+          "sha256": "7c914d1fada40ede2e23429dc50750c0d6a15947fb838109983ec71cee50a29f",
+          "size": 238393,
+          "zsize": 224053,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/crickets.ogg",
+          "sha256": "9bbf202c4179f3b1fda76e5213a28f031549e6e789a98d34b7be4c52d87962fc",
+          "size": 296525,
+          "zsize": 286206,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/fire.ogg",
+          "sha256": "0de62ff8f51816505a2a1683034272cbbd2186dacc71ec0b3eb73a0b5dba4aa9",
+          "size": 211326,
+          "zsize": 199864,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/rain.ogg",
+          "sha256": "bbac08472bfd1632493fd01fe5369b1a1e1384cb5cf4ac483da27c8f21e2c92a",
+          "size": 354104,
+          "zsize": 349808,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/river.ogg",
+          "sha256": "c45f44381686467d4ca93a6307071a04ab10f8b7588f416c6806c785fb7336bb",
+          "size": 323413,
+          "zsize": 318282,
+          "exec": false
+        },
+        {
+          "path": "audio/ambient/wind.ogg",
+          "sha256": "9a3c61f0e17179dd16b48b1d03a2339a6a74ca9ff69e35ea7dc792e2d5dc4ef1",
+          "size": 300287,
+          "zsize": 296854,
+          "exec": false
+        },
+        {
+          "path": "audio/music/fortaleza_1.ogg",
+          "sha256": "300c60b300c66fd6f3c61d1de0b3e88adda2042c94956fe33d1bb03f66f16120",
+          "size": 1841805,
+          "zsize": 1781826,
+          "exec": false
+        },
+        {
+          "path": "audio/music/fortaleza_2.ogg",
+          "sha256": "516ae338a2ab909137fdb3199a21942f6d982e963f788fafe2f4adb1b1bf2c19",
+          "size": 2217518,
+          "zsize": 2164783,
+          "exec": false
+        },
+        {
+          "path": "audio/music/fortaleza_3.ogg",
+          "sha256": "245f199dc2bd1280b7c7feffbc8637adfb19bc88522b5c97bc6b47e1b0ffe141",
+          "size": 2491277,
+          "zsize": 2430654,
+          "exec": false
+        },
+        {
+          "path": "audio/music/genesis.ogg",
+          "sha256": "9bceda6fd57f608cefa740091ceeb1d782eb26a2f5c090f67051fde9e8534d5b",
+          "size": 2776533,
+          "zsize": 2751724,
+          "exec": false
+        },
+        {
+          "path": "audio/music/invierno.ogg",
+          "sha256": "f8b53dd02e40e08e8b07fb26291a679e415dce8b5e67821585c428834792d602",
+          "size": 3044719,
+          "zsize": 3004134,
+          "exec": false
+        },
+        {
+          "path": "audio/music/noche.ogg",
+          "sha256": "d608aa5acc164743a1c6854ff06e4f98af8901f93e4f9a799f614aa497120c46",
+          "size": 3176202,
+          "zsize": 3129820,
+          "exec": false
+        },
+        {
+          "path": "audio/music/peligro.ogg",
+          "sha256": "8118292adfece796bff413c4121fe5a1d8582dc3cba6358b411bfb11a34ee2e3",
+          "size": 1174927,
+          "zsize": 1150559,
+          "exec": false
+        },
+        {
+          "path": "audio/music/titulo.ogg",
+          "sha256": "b534fbec87c2a325024db936db18d21ace07cedaa55d6b11b6869a54bd56c654",
+          "size": 2441445,
+          "zsize": 2375104,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/alert.ogg",
+          "sha256": "c562608d93307e78cc75c0ca905123c99a8e70765a67c3caf28ff88e0ae1a379",
+          "size": 56448,
+          "zsize": 53345,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/anvil.ogg",
+          "sha256": "b569a5104a449e10bacd331b062093b20bcc86191d6099d26d72ef5dd7751151",
+          "size": 8564,
+          "zsize": 6689,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/axe_0.ogg",
+          "sha256": "f8d1e9c06b49520f2d56d81dabb9a060ad91507c26b0b93e7a2546e9091d1c56",
+          "size": 6821,
+          "zsize": 5991,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/axe_1.ogg",
+          "sha256": "f64867e7521b431556e6ede484b3b386727135f1344ff6dedbfa33a07fe4da7e",
+          "size": 6780,
+          "zsize": 5946,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/axe_2.ogg",
+          "sha256": "b17e6bfb5b81c425eccc462920e25a811e0c971134ad050e066c2d793986b8eb",
+          "size": 6834,
+          "zsize": 6006,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/body_fall.ogg",
+          "sha256": "1dedcd94b1e24771e71e3985ad331411649942c7255d053d5a45a7ee138d2153",
+          "size": 10654,
+          "zsize": 9827,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/done.ogg",
+          "sha256": "4e63c4448532549636f96cf66a575f9b4f5bb8041b433e83d87d34289660ae22",
+          "size": 49185,
+          "zsize": 45835,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/growl_0.ogg",
+          "sha256": "8f37b42d6dbd89e0eab0842d6aaa5287930129cd69e9c77bb416524820007e4b",
+          "size": 14544,
+          "zsize": 13645,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/growl_1.ogg",
+          "sha256": "08381bc602e27949856a8e16caa3fb6a5da2ad530c393ab8e19196d9cde28be2",
+          "size": 15178,
+          "zsize": 14234,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/grunt_0.ogg",
+          "sha256": "bd54fb804fdff3fdc0b4cd5cd3774b4bca0d9b590bb8a7adb86fb5a8d30d1a15",
+          "size": 7042,
+          "zsize": 5999,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/grunt_1.ogg",
+          "sha256": "4d5abe38b84859972c74f22551fd7146179dd9d4ee46bcad7648903d46346e00",
+          "size": 6065,
+          "zsize": 5190,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/grunt_2.ogg",
+          "sha256": "cb3b9f0c526367ef859b6d6391590ccad609cebb49d8e6a5b17cf16a5963dbe2",
+          "size": 6260,
+          "zsize": 5376,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hammer_0.ogg",
+          "sha256": "c12f960e46b50a5597870b12fc4537c6a9f7cb439ae928ae91fcc2d4ad76133d",
+          "size": 6317,
+          "zsize": 5468,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hammer_1.ogg",
+          "sha256": "f47ab331bcaeac466808bf5e2f7307daf59ba6336f95cccc9912a2c623cd967f",
+          "size": 6275,
+          "zsize": 5450,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hammer_2.ogg",
+          "sha256": "5be90bcd14b457625d202f17067b607f460aabea09fa0d7db02ee8c77469c88f",
+          "size": 6377,
+          "zsize": 5539,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_cut_0.ogg",
+          "sha256": "790f4b0b974123059b09126cecb10b6945bfbbd68c490e0c3ac251cd076982f9",
+          "size": 6925,
+          "zsize": 6098,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_cut_1.ogg",
+          "sha256": "fefec8f81be7430a59526b71fd34c298f1e4e0a3fd185feebf2de06cd0af5f04",
+          "size": 6930,
+          "zsize": 6108,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_cut_2.ogg",
+          "sha256": "1445f931c2b18cb8e1b1c1c276ec814924ba747d180e193a45074fe15871b71e",
+          "size": 6917,
+          "zsize": 6092,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_flesh_0.ogg",
+          "sha256": "40559105b9715c466a69dfa9514b70a90f08aa09b99fe54bf2bd6b7e102cbbb8",
+          "size": 5717,
+          "zsize": 4888,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_flesh_1.ogg",
+          "sha256": "201ef17b158c0b0accb266c9ae91e5b308a1bc6bf5de89a1724d032d51016423",
+          "size": 5697,
+          "zsize": 4865,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/hit_flesh_2.ogg",
+          "sha256": "607f63812f82e0451590d4a60b142f65d19e11aef4cd544730e1dc1350d2698d",
+          "size": 5699,
+          "zsize": 4870,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/horn.ogg",
+          "sha256": "d7846eefa46f6fe8ffdc87233888b2b73ba0c603a9d3bdf91d86007450102190",
+          "size": 50857,
+          "zsize": 46344,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/notify.ogg",
+          "sha256": "f48ae8ec1695f6fa11685b5f5c57bc5b7b1d42f622890ef7ded9d71f24b356f8",
+          "size": 26378,
+          "zsize": 23418,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/pick_0.ogg",
+          "sha256": "1f60f5044860257092f579afc3a9178c741b630400596f1d38388b3887ad497b",
+          "size": 7668,
+          "zsize": 6844,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/pick_1.ogg",
+          "sha256": "29e0f5a63d97617d73fd398b1fc017da94a9d64be78bee19f4830a744499e866",
+          "size": 7666,
+          "zsize": 6844,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/pick_2.ogg",
+          "sha256": "6f11601fb56e151bd93e6fa194affa21ba89fb5cc3cae0a3862a8cbe4415d5de",
+          "size": 7654,
+          "zsize": 6833,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/pick_3.ogg",
+          "sha256": "cefae6c3b4d6703c97ef594d4b7eae52cce1625c667c0f5a1edd91bd4ba94856",
+          "size": 7662,
+          "zsize": 6835,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/ping.ogg",
+          "sha256": "92763fe5b2adbf45493af66c6e63f96280d37e6d4f4aeb9831cf017c23686645",
+          "size": 24979,
+          "zsize": 23119,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/roar.ogg",
+          "sha256": "1f29020496ed29fa96149423ddd3e612c67ce168274cd5c79c5ab345ce3751bd",
+          "size": 15356,
+          "zsize": 14518,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/rock_break.ogg",
+          "sha256": "0feffea9c57c8e955aaa98ae663bd89774de5ee64691b173d50701c7de59b07a",
+          "size": 13646,
+          "zsize": 12813,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/splash.ogg",
+          "sha256": "636d679c588265a9fe1aee5612acb0e8d768f48d33ba8d23e8ad2231c8d544ba",
+          "size": 11268,
+          "zsize": 10442,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/stage.ogg",
+          "sha256": "d594077daecedda4012e50ad3aef5b1dc7e456cf715e094fc72a04804604ce13",
+          "size": 34595,
+          "zsize": 32146,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_grass_0.ogg",
+          "sha256": "3e128482eebbe1ea372d5dfe6ad36797dca3ece2e7e728475dccbb7fc5b602a1",
+          "size": 5352,
+          "zsize": 4523,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_grass_1.ogg",
+          "sha256": "fe7adc302efa81ba617aa75c86cdd113ad078def9c470a8305c86e5287181640",
+          "size": 5336,
+          "zsize": 4509,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_grass_2.ogg",
+          "sha256": "4a576e78e20d5bc497e156c5404023d22707360833f2638dc770a97900d95a98",
+          "size": 5355,
+          "zsize": 4526,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_grass_3.ogg",
+          "sha256": "580a2cc24d8a8b68e8f020017a82999b9b92fbbc85290ce7c0b626ad3f4e8366",
+          "size": 5368,
+          "zsize": 4539,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_stone_0.ogg",
+          "sha256": "15d5dad132940655790b1abac1d281d7878d6138a8090a8ea7733b184e9c5af9",
+          "size": 4915,
+          "zsize": 4085,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_stone_1.ogg",
+          "sha256": "b611a7d8362cda5b03a1ea4a127001a3cd66d0770e10f75acb6c46ebba2f18eb",
+          "size": 4913,
+          "zsize": 4086,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_stone_2.ogg",
+          "sha256": "6b4e4d28d1ad89f1be447b331e957c664057966d4b047e8f3be8b8becf52c0ca",
+          "size": 4919,
+          "zsize": 4090,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/step_stone_3.ogg",
+          "sha256": "24e004c71f8ec05e19a067ad833fbd6da4d2cf4b2d6cdb4484bc9f0fa2379690",
+          "size": 4928,
+          "zsize": 4085,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/tree_fall.ogg",
+          "sha256": "8c46dab65df7a462c2c8684c52ac3f466b1cf60fb7bdb02b42d45f771ef3efb4",
+          "size": 21695,
+          "zsize": 20777,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/ui_click.ogg",
+          "sha256": "9ccacd79c0791f5cb75ee1be15a38815f0469c69817cefd6cd8cd237b7534281",
+          "size": 4372,
+          "zsize": 3506,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/ui_close.ogg",
+          "sha256": "32118882000754b2e0212d04d7546fe7cdb45fe3ba60684f9c62e993c8befb68",
+          "size": 4872,
+          "zsize": 3974,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/ui_hover.ogg",
+          "sha256": "87b599d563939825adbe633e910addb9790cf572908ad9547a12ced9a46e0871",
+          "size": 3969,
+          "zsize": 3106,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/ui_open.ogg",
+          "sha256": "8c70b38ed02bf12779ebc36747767321ac5395902417eca6f654e50448e3c71b",
+          "size": 4856,
+          "zsize": 3941,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/yelp_0.ogg",
+          "sha256": "a9caddffac3628c39c6ed5d3f6e1cacf5157d4778eb50033f01f974e211d6e57",
+          "size": 4684,
+          "zsize": 3765,
+          "exec": false
+        },
+        {
+          "path": "audio/sfx/yelp_1.ogg",
+          "sha256": "6f9cb520746a18d60b72fafd8b7bb1bfdaf473c970a730d7b18ec50ea0dfe668",
+          "size": 4893,
+          "zsize": 3943,
+          "exec": false
+        },
+        {
+          "path": "data/biomes.ron",
+          "sha256": "3e1e62a63476271ff483d0b44b17357f4a44cb4d86dea2ddde879312b0ddaf53",
+          "size": 3793,
+          "zsize": 1036,
+          "exec": false
+        },
+        {
+          "path": "data/bodies.ron",
+          "sha256": "6d971fed7433d5e626b9d098c7762e2784b7aef8f1f9d6be00ae251eaaa2d727",
+          "size": 8962,
+          "zsize": 2045,
+          "exec": false
+        },
+        {
+          "path": "data/creatures.ron",
+          "sha256": "d3d25367b192a80404e9c1639f567915912a78d52109e109aac029af5ec5c77a",
+          "size": 6552,
+          "zsize": 1765,
+          "exec": false
+        },
+        {
+          "path": "data/crops.ron",
+          "sha256": "5e53dcc0b440105517158c50b8de11b7fbd91683e63f10c890bca49fc29ad1c6",
+          "size": 931,
+          "zsize": 454,
+          "exec": false
+        },
+        {
+          "path": "data/geology.ron",
+          "sha256": "1523c9d88a62bd088a59195fcdac132ba06452e4f86e3fbc116afcb5343bb531",
+          "size": 3929,
+          "zsize": 1372,
+          "exec": false
+        },
+        {
+          "path": "data/items.ron",
+          "sha256": "8e7a1404f545c972043b7eab17f4a36634b87c8dc171105bae1d8bbde5231a05",
+          "size": 1106,
+          "zsize": 532,
+          "exec": false
+        },
+        {
+          "path": "data/materials.ron",
+          "sha256": "703f6d41a3e686760324275f94dc3d4a1393f85e8e4e2746728ca9d29c69d412",
+          "size": 6528,
+          "zsize": 1618,
+          "exec": false
+        },
+        {
+          "path": "data/needs.ron",
+          "sha256": "1408c22ec61203b9d617916b87818a3c519f24bfc6ff7032c5f7b03f2f53db7f",
+          "size": 861,
+          "zsize": 484,
+          "exec": false
+        },
+        {
+          "path": "data/peoples.ron",
+          "sha256": "7240d76902d81bf8e29c4cb74a61b058a832a071e65935762ddafae8d0fa0891",
+          "size": 2336,
+          "zsize": 951,
+          "exec": false
+        },
+        {
+          "path": "data/plants.ron",
+          "sha256": "9e124d0b5e21bd64be738b4c47646bfcf903587f9f7a6e70140183f1895170b7",
+          "size": 2430,
+          "zsize": 740,
+          "exec": false
+        },
+        {
+          "path": "data/recipes.ron",
+          "sha256": "de29d9441bd584ebf3476e92e8ea91f7ca7ed0fe729a2b4906a5fe1578f4e553",
+          "size": 2538,
+          "zsize": 845,
+          "exec": false
+        },
+        {
+          "path": "data/rules.ron",
+          "sha256": "2fd02ff736b4e378a03dd536f79d7d6683c4ed906054ad90d60c8f811b969bdf",
+          "size": 1478,
+          "zsize": 733,
+          "exec": false
+        },
+        {
+          "path": "data/soils.ron",
+          "sha256": "e963ca0e897d27daa271bf78d875d345ad550e66338cb16b1179f77ab0a9cd9a",
+          "size": 3282,
+          "zsize": 1179,
+          "exec": false
+        },
+        {
+          "path": "data/workshops.ron",
+          "sha256": "073c3e88981dbf7789f678d78bbfce8fdb69847ed33cf2653cd3ceaf749e9eca",
+          "size": 824,
+          "zsize": 395,
+          "exec": false
+        },
+        {
+          "path": "forja.exe",
+          "sha256": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562",
+          "size": 109268480,
+          "zsize": 29048995,
+          "exec": false
+        },
+        {
+          "path": "forja.pck",
+          "sha256": "3b30214ff88136cc9a721c660efc6fd081e17f82cd869749f1abd9deffaa8c86",
+          "size": 605452,
+          "zsize": 560869,
+          "exec": false
+        },
+        {
+          "path": "forja_bridge.dll",
+          "sha256": "4b611ce67ca24ac782d043fc9d7788fa73e552862e607a7ced160574a0d0eca4",
+          "size": 22326784,
+          "zsize": 5464391,
+          "exec": false
+        }
+      ]
+    }
+  }
+}

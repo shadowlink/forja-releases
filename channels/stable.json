@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "stable",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "published": "2026-09-26",
-  "manifest": "versions/0.1.1.json",
-  "manifest_sha256": "1ecc71e3bb17492765e0d4fedd05685790896f0eb5cd64c059addd1b023d7bf0",
+  "manifest": "versions/0.1.2.json",
+  "manifest_sha256": "284e11ccc64bca5f924411055f6a5a67889ce56abd84e2968b17c9ae71ecd874",
   "launcher": {
     "version": "1.0.0",
     "platforms": {
