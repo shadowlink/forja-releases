@@ -1,0 +1,257 @@
+{
+  "format": 1,
+  "version": "0.1.0",
+  "published": "2026-09-26",
+  "save_format": 18,
+  "notes": "- Primera versión con lanzador: a partir de ahora Forja se actualiza sola desde el título.\n- Fortaleza en vista isométrica pixel art, con giro de cámara y niveles.\n- Enanos con personalidad, ánimo, amistades, recuerdos y crónica.\n- Granjas, pozos, talleres, muebles y caravanas de comercio.\n- Combate por partes del cuerpo y depredadores (lobos, osos, jabalíes).\n- Música y sonidos propios.\n",
+  "platforms": {
+    "linux-x86_64": {
+      "exe": "forja.x86_64",
+      "files": [
+        {
+          "path": "data/biomes.ron",
+          "sha256": "3e1e62a63476271ff483d0b44b17357f4a44cb4d86dea2ddde879312b0ddaf53",
+          "size": 3793,
+          "zsize": 1036,
+          "exec": false
+        },
+        {
+          "path": "data/bodies.ron",
+          "sha256": "6d971fed7433d5e626b9d098c7762e2784b7aef8f1f9d6be00ae251eaaa2d727",
+          "size": 8962,
+          "zsize": 2045,
+          "exec": false
+        },
+        {
+          "path": "data/creatures.ron",
+          "sha256": "d3d25367b192a80404e9c1639f567915912a78d52109e109aac029af5ec5c77a",
+          "size": 6552,
+          "zsize": 1765,
+          "exec": false
+        },
+        {
+          "path": "data/crops.ron",
+          "sha256": "5e53dcc0b440105517158c50b8de11b7fbd91683e63f10c890bca49fc29ad1c6",
+          "size": 931,
+          "zsize": 454,
+          "exec": false
+        },
+        {
+          "path": "data/geology.ron",
+          "sha256": "1523c9d88a62bd088a59195fcdac132ba06452e4f86e3fbc116afcb5343bb531",
+          "size": 3929,
+          "zsize": 1372,
+          "exec": false
+        },
+        {
+          "path": "data/items.ron",
+          "sha256": "8e7a1404f545c972043b7eab17f4a36634b87c8dc171105bae1d8bbde5231a05",
+          "size": 1106,
+          "zsize": 532,
+          "exec": false
+        },
+        {
+          "path": "data/materials.ron",
+          "sha256": "703f6d41a3e686760324275f94dc3d4a1393f85e8e4e2746728ca9d29c69d412",
+          "size": 6528,
+          "zsize": 1618,
+          "exec": false
+        },
+        {
+          "path": "data/needs.ron",
+          "sha256": "1408c22ec61203b9d617916b87818a3c519f24bfc6ff7032c5f7b03f2f53db7f",
+          "size": 861,
+          "zsize": 484,
+          "exec": false
+        },
+        {
+          "path": "data/peoples.ron",
+          "sha256": "7240d76902d81bf8e29c4cb74a61b058a832a071e65935762ddafae8d0fa0891",
+          "size": 2336,
+          "zsize": 951,
+          "exec": false
+        },
+        {
+          "path": "data/plants.ron",
+          "sha256": "9e124d0b5e21bd64be738b4c47646bfcf903587f9f7a6e70140183f1895170b7",
+          "size": 2430,
+          "zsize": 740,
+          "exec": false
+        },
+        {
+          "path": "data/recipes.ron",
+          "sha256": "de29d9441bd584ebf3476e92e8ea91f7ca7ed0fe729a2b4906a5fe1578f4e553",
+          "size": 2538,
+          "zsize": 845,
+          "exec": false
+        },
+        {
+          "path": "data/rules.ron",
+          "sha256": "2fd02ff736b4e378a03dd536f79d7d6683c4ed906054ad90d60c8f811b969bdf",
+          "size": 1478,
+          "zsize": 733,
+          "exec": false
+        },
+        {
+          "path": "data/soils.ron",
+          "sha256": "e963ca0e897d27daa271bf78d875d345ad550e66338cb16b1179f77ab0a9cd9a",
+          "size": 3282,
+          "zsize": 1179,
+          "exec": false
+        },
+        {
+          "path": "data/workshops.ron",
+          "sha256": "073c3e88981dbf7789f678d78bbfce8fdb69847ed33cf2653cd3ceaf749e9eca",
+          "size": 824,
+          "zsize": 395,
+          "exec": false
+        },
+        {
+          "path": "forja.pck",
+          "sha256": "43357eae1aaeae270103e38458a4d474eb653dc512f5e293f5abaf54c019476d",
+          "size": 23014416,
+          "zsize": 21711860,
+          "exec": false
+        },
+        {
+          "path": "forja.x86_64",
+          "sha256": "d9f79ab89b5ae369aeed11c6052d402e8218cd503bf85b4a235f9c30c46a7c63",
+          "size": 73519416,
+          "zsize": 21663722,
+          "exec": true
+        },
+        {
+          "path": "libforja_bridge.so",
+          "sha256": "c2d96d36588a2bd6049076d7a954bc86e39cda965d2c713f58a44741dab8e873",
+          "size": 12643048,
+          "zsize": 3625784,
+          "exec": false
+        }
+      ]
+    },
+    "windows-x86_64": {
+      "exe": "forja.exe",
+      "files": [
+        {
+          "path": "data/biomes.ron",
+          "sha256": "3e1e62a63476271ff483d0b44b17357f4a44cb4d86dea2ddde879312b0ddaf53",
+          "size": 3793,
+          "zsize": 1036,
+          "exec": false
+        },
+        {
+          "path": "data/bodies.ron",
+          "sha256": "6d971fed7433d5e626b9d098c7762e2784b7aef8f1f9d6be00ae251eaaa2d727",
+          "size": 8962,
+          "zsize": 2045,
+          "exec": false
+        },
+        {
+          "path": "data/creatures.ron",
+          "sha256": "d3d25367b192a80404e9c1639f567915912a78d52109e109aac029af5ec5c77a",
+          "size": 6552,
+          "zsize": 1765,
+          "exec": false
+        },
+        {
+          "path": "data/crops.ron",
+          "sha256": "5e53dcc0b440105517158c50b8de11b7fbd91683e63f10c890bca49fc29ad1c6",
+          "size": 931,
+          "zsize": 454,
+          "exec": false
+        },
+        {
+          "path": "data/geology.ron",
+          "sha256": "1523c9d88a62bd088a59195fcdac132ba06452e4f86e3fbc116afcb5343bb531",
+          "size": 3929,
+          "zsize": 1372,
+          "exec": false
+        },
+        {
+          "path": "data/items.ron",
+          "sha256": "8e7a1404f545c972043b7eab17f4a36634b87c8dc171105bae1d8bbde5231a05",
+          "size": 1106,
+          "zsize": 532,
+          "exec": false
+        },
+        {
+          "path": "data/materials.ron",
+          "sha256": "703f6d41a3e686760324275f94dc3d4a1393f85e8e4e2746728ca9d29c69d412",
+          "size": 6528,
+          "zsize": 1618,
+          "exec": false
+        },
+        {
+          "path": "data/needs.ron",
+          "sha256": "1408c22ec61203b9d617916b87818a3c519f24bfc6ff7032c5f7b03f2f53db7f",
+          "size": 861,
+          "zsize": 484,
+          "exec": false
+        },
+        {
+          "path": "data/peoples.ron",
+          "sha256": "7240d76902d81bf8e29c4cb74a61b058a832a071e65935762ddafae8d0fa0891",
+          "size": 2336,
+          "zsize": 951,
+          "exec": false
+        },
+        {
+          "path": "data/plants.ron",
+          "sha256": "9e124d0b5e21bd64be738b4c47646bfcf903587f9f7a6e70140183f1895170b7",
+          "size": 2430,
+          "zsize": 740,
+          "exec": false
+        },
+        {
+          "path": "data/recipes.ron",
+          "sha256": "de29d9441bd584ebf3476e92e8ea91f7ca7ed0fe729a2b4906a5fe1578f4e553",
+          "size": 2538,
+          "zsize": 845,
+          "exec": false
+        },
+        {
+          "path": "data/rules.ron",
+          "sha256": "2fd02ff736b4e378a03dd536f79d7d6683c4ed906054ad90d60c8f811b969bdf",
+          "size": 1478,
+          "zsize": 733,
+          "exec": false
+        },
+        {
+          "path": "data/soils.ron",
+          "sha256": "e963ca0e897d27daa271bf78d875d345ad550e66338cb16b1179f77ab0a9cd9a",
+          "size": 3282,
+          "zsize": 1179,
+          "exec": false
+        },
+        {
+          "path": "data/workshops.ron",
+          "sha256": "073c3e88981dbf7789f678d78bbfce8fdb69847ed33cf2653cd3ceaf749e9eca",
+          "size": 824,
+          "zsize": 395,
+          "exec": false
+        },
+        {
+          "path": "forja.exe",
+          "sha256": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562",
+          "size": 109268480,
+          "zsize": 29048995,
+          "exec": false
+        },
+        {
+          "path": "forja.pck",
+          "sha256": "43357eae1aaeae270103e38458a4d474eb653dc512f5e293f5abaf54c019476d",
+          "size": 23014416,
+          "zsize": 21711860,
+          "exec": false
+        },
+        {
+          "path": "forja_bridge.dll",
+          "sha256": "c77c7ab800b3b58d93b792219a0f9ddcbc14b83b5b7567cdbfb1260788ce1f3e",
+          "size": 22327808,
+          "zsize": 5458118,
+          "exec": false
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format": 1,
+  "channel": "stable",
+  "version": "0.1.0",
+  "published": "2026-09-26",
+  "manifest": "versions/0.1.0.json",
+  "manifest_sha256": "5158c424abba47695e3dbe278b4df0681b9708118f3f6ed012a25849d8834bc5",
+  "launcher": {
+    "version": "1.0.0",
+    "platforms": {
+      "linux-x86_64": {
+        "path": "forja-launcher",
+        "sha256": "04b47c50bd0facb5cc6aa6a9a634434ff6500fe60a9fa9328651ab31e1a8c6d5",
+        "size": 3384784,
+        "zsize": 1367702,
+        "exec": true
+      },
+      "windows-x86_64": {
+        "path": "forja-launcher.exe",
+        "sha256": "e02811dea4a64df684ac227350ac5bf107bff3e7590135cb53b15374fdf61154",
+        "size": 5396992,
+        "zsize": 2011488,
+        "exec": true
+      }
+    }
+  }
+}
