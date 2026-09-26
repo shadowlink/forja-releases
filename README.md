@@ -1,6 +1,6 @@
-# Versiones de Forja
+# Versiones de Worldkin
 
-Lo que baja el lanzador de Forja (no se toca a mano). Se genera con `forja-publish release`
+Lo que baja el lanzador de Worldkin (nombre en clave: Forja) (no se toca a mano). Se genera con `forja-publish release`
 desde el repositorio del juego; ver `docs/LANZADOR.md` allí.
 
 - `channels/<canal>.json` + `.sig`: qué versión toca (firmado)
