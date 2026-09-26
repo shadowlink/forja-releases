@@ -1,25 +1,25 @@
 {
   "format": 1,
   "channel": "stable",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "published": "2026-09-26",
-  "manifest": "versions/0.1.0.json",
-  "manifest_sha256": "5158c424abba47695e3dbe278b4df0681b9708118f3f6ed012a25849d8834bc5",
+  "manifest": "versions/0.1.1.json",
+  "manifest_sha256": "1ecc71e3bb17492765e0d4fedd05685790896f0eb5cd64c059addd1b023d7bf0",
   "launcher": {
     "version": "1.0.0",
     "platforms": {
       "linux-x86_64": {
         "path": "forja-launcher",
-        "sha256": "04b47c50bd0facb5cc6aa6a9a634434ff6500fe60a9fa9328651ab31e1a8c6d5",
+        "sha256": "7a94b695bc9c9285098eb3f5ee8adbb7b3a392bc6be5e4cf0565ee959901dcae",
         "size": 3384784,
-        "zsize": 1367702,
+        "zsize": 1367681,
         "exec": true
       },
       "windows-x86_64": {
         "path": "forja-launcher.exe",
-        "sha256": "e02811dea4a64df684ac227350ac5bf107bff3e7590135cb53b15374fdf61154",
-        "size": 5396992,
-        "zsize": 2011488,
+        "sha256": "d97deaf0311792b98a7d08b5e88dbbd68255be8144f8d98d021ce07143426798",
+        "size": 5412864,
+        "zsize": 2026132,
         "exec": true
       }
     }
